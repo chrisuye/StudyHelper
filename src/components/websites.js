@@ -1,0 +1,51 @@
+export const Websites = [
+    {
+        name: 'LinkedIn',
+        image: 'fab fa-linkedin',
+        url: 'https://www.linkedin.com/',
+        normal: true,
+        study: true,
+    },
+    {
+        name: 'Twitter',
+        image: 'fab fa-twitter-square',
+        url: 'https://twitter.com/',
+        normal: true,
+        study: false,
+    },
+    {
+        name: 'Facebook',
+        image: 'fab fa-facebook-square',
+        url: 'https://www.facebook.com/',
+        normal: true,
+        study: false,
+    },
+    {
+        name: 'Instagram',
+        image: 'fab fa-instagram',
+        url: 'https://www.instagram.com/',
+        normal: true,
+        study: false,
+    },
+    {
+        name: 'Youtube',
+        image: 'fab fa-youtube',
+        url: 'https://www.youtube.com/',
+        normal: true,
+        study: false,
+    },
+    {
+        name: 'Amazon',
+        image: 'fab fa-amazon',
+        url: 'https://www.amazon.com/',
+        normal: true,
+        study: false,
+    },
+    {
+        name: 'Google',
+        image: 'fab fa-google',
+        url: 'https://www.google.com/',
+        normal: true,
+        study: true,
+    },
+]
